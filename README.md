@@ -1,3 +1,4 @@
 # understandingGit
-I am understanding GIT
+I am understanding GIT.
+<br>
 Author - Shanu singh
